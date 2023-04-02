@@ -1,7 +1,7 @@
 # ECT-LiP
 Curso de Linguagem de Progarmação da Escola de Ciências e Tecnologia (ECT-UFRN)
 
-Ementa de LiP
+Ementa de LiP:
 - Introdução à Linguagem C++
 - Variáveis, Operadores e Expressões
 - Comandos de Entrada e Saída
